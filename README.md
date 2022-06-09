@@ -1,4 +1,4 @@
-# linkedin-fire
+# github-fire
  
 [DOOM Fire](https://github.com/filipedeschamps/doom-fire-algorithm) implementation on contributions calendar from GitHub.
 
